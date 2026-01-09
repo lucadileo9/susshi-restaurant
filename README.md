@@ -4,7 +4,7 @@
 
 [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![Made for Course](https://img.shields.io/badge/Course-Web%20Technologies-lightgreny.svg)](https://github.com/lucadileo9/culinary-explorer)
+[![Made for Course](https://img.shields.io/badge/Course-Web%20Technologies-lightgreny.svg)](https://github.com/lucadileo9/susshi-restaurant.git)
 [![University](https://img.shields.io/badge/University-UNIMORE-blue.svg)](https://www.unimore.it/)
 
 This project is a web application built with Django that allows users to browse the menu of a sushi restaurant and place orders. The restaurant staff, specifically a user with chef privileges, can manage incoming orders and update the status of the kitchen.
