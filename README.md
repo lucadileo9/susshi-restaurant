@@ -16,7 +16,7 @@ This project is a web application built with Django that allows users to browse 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lucadileo9/Susshi.git
+   git clone https://github.com/lucadileo9/susshi-restaurant.git
    cd Susshi
    ```
 2. Ensure Python Version Compatibility:
