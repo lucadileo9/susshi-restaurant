@@ -1,4 +1,7 @@
 # Sushi Restaurant Ordering System
+[![Django Version](https://img.shields.io/badge/Django-4.2-green.svg)](https://www.djangoproject.com/)
+[![Python Version](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project is a web application built with Django that allows users to browse the menu of a sushi restaurant and place orders. The restaurant staff, specifically a user with chef privileges, can manage incoming orders and update the status of the kitchen.
 
